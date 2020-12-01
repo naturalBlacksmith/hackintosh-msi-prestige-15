@@ -8,18 +8,18 @@ Wifi: Intel Wi-Fi 6 (AX201) <br>
 Display: 1980x1080 <br>
 iGPU: Intel UHD Graphics <br>
 
-##### What works:
+### What works:
 Everything including touchpad gestures.
 
 Wifi card Intel AX201 runs on itlwm (with Heliport) or AirportItlwm (sometimes causes issues)
 Bluetooth works too with Bluetooth driver by OpenIntelWireless
 
-##### What doesn't work:
+### What doesn't work:
 - Nvidia 1650 MaxQ Discrete GPU
 - Realtek Card reader 
 - Syanaptics Fingerprint Scanner 
 
-##### Credits:
+### Credits:
 - All Hackintosh Community, tonymacx86, RehabMan, Acidanthera, others
 - https://www.apple.com/in/macos/big-sur/
 - https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html
@@ -28,6 +28,6 @@ Bluetooth works too with Bluetooth driver by OpenIntelWireless
 - https://github.com/VoodooI2C/VoodooI2C
 - Other repos and  file owners
 
-#### Special Thanks to
+### Special Thanks to
 - https://github.com/wgjas2/MSI-Prestige-15-Hackintosh (This is where i copied mostly from)
 - https://github.com/KerKerOgh/MSI-Prestige-15-Hackintosh
